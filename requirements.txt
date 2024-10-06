@@ -1,0 +1,13 @@
+streamlit
+requests
+fastapi
+uvicorn
+pydantic
+PyPDF2
+langchain
+sentence-transformers
+langchain_community
+langchain_huggingface
+pinecone-client
+aiohttp
+nest_asyncio
